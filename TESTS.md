@@ -21,9 +21,9 @@ JavaScript 語法檢查通過。主程式沒有外部 script、stylesheet 或圖
 
 本紀錄驗證網頁行為；未宣稱已逐店驗證步行時間或營業現況，GitHub Pages 已於 2026-10-17 部署成功，並開啟正式網址確認 30 家載入、抽籤與空名單防護。
 
-正式網址：https://111305066-star.github.io/111305066/
+正式網址：https://111305066-star.github.io/112305003/
 
-部署工作：https://github.com/111305066-star/111305066/actions/runs/39029024005
+部署工作：https://github.com/111305066-star/112305003/actions/runs/39029024005
 
 
 ## 正式網站操作驗證
