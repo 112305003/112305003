@@ -1,5 +1,7 @@
 # 政大今天吃什麼？
 
+[直接開啟網站](https://111305066-star.github.io/111305066/) · [完整規格](SPEC.md) · [實際測試紀錄](TESTS.md)
+
 一個從 30 家經使用者確認的政大餐廳候選中，依勾選名單隨機決定下一餐的單頁網頁。使用 HTML、CSS、JavaScript，主程式全部在 `index.html`，無需安裝套件。
 
 ## 使用方式
@@ -27,3 +29,9 @@
 
 ## 修改程式
 `index.html` 的 `RESTAURANTS` 為餐廳資料，`:root` 為配色，`WALK_ORIGIN` 為步行起點，`ANIMATION_MS` 為動畫長度。程式內已附註解。
+
+## 介面截圖
+
+![桌面版實際畫面](desktop.png)
+
+[查看手機版畫面](mobile.png)
